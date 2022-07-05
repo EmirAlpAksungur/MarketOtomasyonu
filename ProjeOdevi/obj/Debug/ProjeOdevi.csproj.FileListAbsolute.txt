@@ -1,0 +1,12 @@
+C:\Users\emira\source\repos\ProjeOdevi\ProjeOdevi\bin\Debug\ProjeOdevi.exe.config
+C:\Users\emira\source\repos\ProjeOdevi\ProjeOdevi\bin\Debug\ProjeOdevi.exe
+C:\Users\emira\source\repos\ProjeOdevi\ProjeOdevi\bin\Debug\ProjeOdevi.pdb
+C:\Users\emira\source\repos\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.Form1.resources
+C:\Users\emira\source\repos\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.KullaniciPaneli.resources
+C:\Users\emira\source\repos\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.Properties.Resources.resources
+C:\Users\emira\source\repos\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.csproj.GenerateResource.cache
+C:\Users\emira\source\repos\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\emira\source\repos\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.exe
+C:\Users\emira\source\repos\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.pdb
+C:\Users\emira\source\repos\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.MudurPanel.resources
+C:\Users\emira\source\repos\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.csproj.AssemblyReference.cache
